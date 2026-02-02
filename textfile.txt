@@ -1,0 +1,56 @@
+{
+  "image_prompt_data": {
+    "subject": {
+      "identity": "young women ",
+      "appearance": {
+        "hair": "Shoulder-length textured bob, honey blonde with golden highlights, loose beachy waves, center part",
+        "eyes": "Large, expressive blue-green eyes, sharp winged eyeliner, defined lashes",
+        "skin": "Flawless fair complexion, luminous dewy finish, soft rosy blush on cheekbones",
+        "lips": "Glossy nude-pink lip color, naturally full shape"
+      },
+      "expression": "Confident, poised, direct eye contact with a soft, neutral gaze"
+    },
+    "attire": {
+      "garment": "Ice-blue/silver satin gown, custom couture style",
+      "details": [
+        "Plunging neckline",
+        "Structured bustier bodice",
+        "Heavy crystal and sequin embellishment on the bust cups",
+        "Off-the-shoulder crystal-encrusted straps",
+        "Thin spaghetti straps",
+        "Smooth, reflective satin fabric texture"
+      ]
+    },
+    "accessories": {
+      "jewelry": [
+        "Delicate diamond tennis necklace",
+        "Small brilliant-cut diamond stud earrings"
+      ]
+    },
+    "environment": {
+      "setting": "Red carpet media wall / Step-and-repeat",
+      "background": "Dark/Black backdrop with blurred white logos (visible partial text: 'GLAAD', 'Hyundai')",
+      "atmosphere": "Glamorous, high-profile celebrity event"
+    },
+    "lighting": {
+      "type": "Professional event flash photography",
+      "characteristics": [
+        "Front-facing soft flash",
+        "Even illumination on face",
+        "Distinct catchlights in eyes",
+        "Subtle specular highlights on the satin dress and crystals",
+        "Minimal shadows on the subject"
+      ]
+    },
+    "technical_details": {
+      "camera_type": "High-end Full Frame DSLR (e.g., Canon EOS R5 or Sony A1)",
+      "lens": "85mm f/1.4 prime portrait lens",
+      "settings": {
+        "aperture": "f/2.0 to f/2.8 (creating shallow depth of field)",
+        "shutter_speed": "1/200s",
+        "iso": "400"
+      },
+      "style": "Ultra-photorealistic, 8k resolution, razor-sharp facial focus, smooth bokeh background, highly detailed skin texture and fabric grain"
+    }
+  }
+}
